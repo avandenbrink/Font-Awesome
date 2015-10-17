@@ -2024,6 +2024,9 @@
 .fa-bloglovin:before {
   content: "\c10e";
 }
+.fa-bloglovin-blog:before {
+  content: "\c10f";
+}
 .fa-fonticons:before {
   content: "\f280";
 }
